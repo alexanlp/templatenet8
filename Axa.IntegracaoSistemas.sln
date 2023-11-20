@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axa.IntegracaoSistemas.Application", "src\Axa.IntegracaoSistemas.Application\Axa.IntegracaoSistemas.Application.csproj", "{AF4DC89D-1D23-4958-A3CC-416533C9F2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axa.IntegracaoSistemas.Infraestructure", "src\Axa.IntegracaoSistemas.Infraestructure\Axa.IntegracaoSistemas.Infraestructure.csproj", "{04061714-C1A5-4F5B-A68B-D04529D483A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axa.IntegracaoSistemas.API", "src\Axa.IntegracaoSistemas.API\Axa.IntegracaoSistemas.API.csproj", "{6F3705DB-2542-452C-BB9C-76AE807F2334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axa.IntegracaoSistemas.Domain", "src\Axa.IntegracaoSistemas.Domain\Axa.IntegracaoSistemas.Domain.csproj", "{159A56DF-EAF8-4D01-82DB-1117E279EB97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4DC89D-1D23-4958-A3CC-416533C9F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4DC89D-1D23-4958-A3CC-416533C9F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4DC89D-1D23-4958-A3CC-416533C9F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4DC89D-1D23-4958-A3CC-416533C9F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04061714-C1A5-4F5B-A68B-D04529D483A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04061714-C1A5-4F5B-A68B-D04529D483A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04061714-C1A5-4F5B-A68B-D04529D483A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04061714-C1A5-4F5B-A68B-D04529D483A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3705DB-2542-452C-BB9C-76AE807F2334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3705DB-2542-452C-BB9C-76AE807F2334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3705DB-2542-452C-BB9C-76AE807F2334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3705DB-2542-452C-BB9C-76AE807F2334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159A56DF-EAF8-4D01-82DB-1117E279EB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159A56DF-EAF8-4D01-82DB-1117E279EB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159A56DF-EAF8-4D01-82DB-1117E279EB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159A56DF-EAF8-4D01-82DB-1117E279EB97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection	
+EndGlobal

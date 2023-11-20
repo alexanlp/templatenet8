@@ -1,0 +1,12 @@
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\bin\Debug\net8.0\Axa.IntegracaoSistemas.Domain.deps.json
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\bin\Debug\net8.0\Axa.IntegracaoSistemas.Domain.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\bin\Debug\net8.0\Axa.IntegracaoSistemas.Domain.pdb
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\Axa.IntegracaoSistemas.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\Axa.IntegracaoSistemas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\Axa.IntegracaoSistemas.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\Axa.IntegracaoSistemas.Domain.AssemblyInfo.cs
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\Axa.IntegracaoSistemas.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\Axa.IntegracaoSistemas.Domain.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\refint\Axa.IntegracaoSistemas.Domain.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\Axa.IntegracaoSistemas.Domain.pdb
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Domain\obj\Debug\net8.0\ref\Axa.IntegracaoSistemas.Domain.dll

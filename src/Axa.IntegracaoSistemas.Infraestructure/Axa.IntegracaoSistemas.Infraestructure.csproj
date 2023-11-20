@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">  
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>annotations</Nullable>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;1591;IDE0090;IDE0063;IDE0059;NU1803</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <NoWarn>1701;1702;1591;IDE0090;IDE0063;IDE0059;NU1803</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="BuildingBlocks.Middleware" Version="3.0.3" />
+    <PackageReference Include="CorrelationId" Version="3.0.1" />
+    <PackageReference Include="Dapper" Version="2.1.21" />
+    <PackageReference Include="MicroOrm.Dapper.Repositories2" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.0" />
+    <PackageReference Include="Serilog.Enrichers.Context" Version="4.6.5" />
+    <PackageReference Include="Serilog.Enrichers.CorrelationId" Version="3.0.1" />
+    <PackageReference Include="Serilog.Enrichers.Environment" Version="2.3.0" />
+    <PackageReference Include="Serilog.Sinks.Seq" Version="6.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Axa.IntegracaoSistemas.Application\Axa.IntegracaoSistemas.Application.csproj" />
+    <ProjectReference Include="..\Axa.IntegracaoSistemas.Domain\Axa.IntegracaoSistemas.Domain.csproj" />
+  </ItemGroup>
+</Project>

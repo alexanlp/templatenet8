@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zewU5SvltgbYj659wVJFuVSjybeLy1BAKxuQHLQdfX/tz+0+XpqS4tWmhmlELy2HTDcrbPQKoR/z9LVcXoojFA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Axa\\IntegracaoSistemas\\branches\\dev\\src\\Axa.IntegracaoSistemas.Domain\\Axa.IntegracaoSistemas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexandro.lopes\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\alexandro.lopes\\.nuget\\packages\\microorm.dapper.repositories.core2\\2.1.0\\microorm.dapper.repositories.core2.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

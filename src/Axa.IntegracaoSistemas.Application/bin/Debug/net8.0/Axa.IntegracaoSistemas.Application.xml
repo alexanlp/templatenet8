@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Axa.IntegracaoSistemas.Application</name>
+    </assembly>
+    <members>
+        <member name="P:Axa.IntegracaoSistemas.Application.Features.Exemplo.ExemploRequest.Nome">
+            <summary>
+            Nome do Cliente
+            </summary> 
+        </member>
+        <member name="P:Axa.IntegracaoSistemas.Application.Features.Exemplo.ExemploResponse.Id">
+            <summary>
+            Id do cliente retornado pela API externa
+            </summary>
+        </member>
+        <member name="P:Axa.IntegracaoSistemas.Application.Features.Exemplo.ExemploResponse.Nome">
+            <summary>
+            Nome retornado pela API externa
+            </summary>
+        </member>
+    </members>
+</doc>

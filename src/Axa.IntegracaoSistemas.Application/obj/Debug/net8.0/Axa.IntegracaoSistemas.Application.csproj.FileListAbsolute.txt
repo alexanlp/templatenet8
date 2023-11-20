@@ -1,0 +1,16 @@
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\bin\Debug\net8.0\Axa.IntegracaoSistemas.Application.deps.json
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\bin\Debug\net8.0\Axa.IntegracaoSistemas.Application.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\bin\Debug\net8.0\Axa.IntegracaoSistemas.Application.pdb
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.AssemblyInfoInputs.cache
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.AssemblyInfo.cs
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\refint\Axa.IntegracaoSistemas.Application.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.pdb
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\ref\Axa.IntegracaoSistemas.Application.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.csproj.AssemblyReference.cache
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\bin\Debug\net8.0\Axa.IntegracaoSistemas.Application.xml
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\bin\Debug\net8.0\Axa.IntegracaoSistemas.Domain.dll
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\bin\Debug\net8.0\Axa.IntegracaoSistemas.Domain.pdb
+C:\Projetos\Axa\IntegracaoSistemas\branches\dev\src\Axa.IntegracaoSistemas.Application\obj\Debug\net8.0\Axa.IntegracaoSistemas.Application.csproj.CopyComplete

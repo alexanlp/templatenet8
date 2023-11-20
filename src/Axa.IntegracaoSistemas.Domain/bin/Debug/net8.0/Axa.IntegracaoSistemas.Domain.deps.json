@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Axa.IntegracaoSistemas.Domain/1.0.0": {
+        "dependencies": {
+          "MicroOrm.Dapper.Repositories.Core2": "2.1.0"
+        },
+        "runtime": {
+          "Axa.IntegracaoSistemas.Domain.dll": {}
+        }
+      },
+      "Dapper/2.0.151": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.151.35995"
+          }
+        }
+      },
+      "MicroOrm.Dapper.Repositories.Core2/2.1.0": {
+        "dependencies": {
+          "Dapper": "2.0.151"
+        },
+        "runtime": {
+          "lib/net7.0/MicroOrm.Dapper.Repositories.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Axa.IntegracaoSistemas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.151": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mMcZgx1lim0/i1Ozu+lgnBM4GwNIHpCuxV6BV2ovsEfZAXRAq4jb6RIhxGDcVjtmXMLPpdp85jHPdDjBMMwejw==",
+      "path": "dapper/2.0.151",
+      "hashPath": "dapper.2.0.151.nupkg.sha512"
+    },
+    "MicroOrm.Dapper.Repositories.Core2/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hbO4vS4aqBkdYbZDP8KYgLb1tybWQOJ1LX9VCc86TQM9NnuH8yHIbbi78hp26tmZt/dten9TgjqY25SLhJBjpA==",
+      "path": "microorm.dapper.repositories.core2/2.1.0",
+      "hashPath": "microorm.dapper.repositories.core2.2.1.0.nupkg.sha512"
+    }
+  }
+}

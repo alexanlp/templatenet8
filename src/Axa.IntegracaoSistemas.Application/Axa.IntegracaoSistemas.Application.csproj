@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>annotations</Nullable>
+  </PropertyGroup>
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\net8.0\Axa.IntegracaoSistemas.Application.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591;IDE0090;IDE0063;IDE0059;NU1803</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\net8.0\Axa.IntegracaoSistemas.Application.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591;IDE0090;IDE0063;IDE0059;NU1803</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BuildingBlocks.Notification" Version="4.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Axa.IntegracaoSistemas.Domain\Axa.IntegracaoSistemas.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
